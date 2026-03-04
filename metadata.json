@@ -1,0 +1,5 @@
+{
+  "name": "Visualizador de Sumas de Riemann",
+  "description": "Aplicación interactiva para visualizar y entender el concepto de la integral definida mediante sumas de Riemann.",
+  "requestFramePermissions": []
+}
